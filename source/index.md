@@ -1,7 +1,7 @@
 # Excel-VBA简明教程
 
 - **Author**：张彬
-- **Generated**: 2021/6/3
+- **Generated**: 2021/6
 - **License**: 
 - **Version**: 1.0
 
